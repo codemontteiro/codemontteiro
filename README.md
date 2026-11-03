@@ -6,7 +6,7 @@
 
 #
 
-Me chamo Isaac Monteiro, tenho 20 anos e moro em Brasilia - DF. Atualmente curso Análise e Desenvolvimento de Sistemas no UNICEUB.  "[MonteiroDev]".
+Me chamo Isaac Monteiro, tenho 20 anos e moro em Brasilia - DF. Atualmente curso Análise e Desenvolvimento de Sistemas no UNICEUB.Meu interesse por tecnologia vai além de utilizar ferramentas: gosto de entender como sistemas funcionam, explorar novas possibilidades e descobrir maneiras de tornar processos mais eficientes. Estou sempre em busca de novos conhecimentos em programação, desenvolvimento de software e inovação.  "[MonteiroDev]".
  
 #
 
